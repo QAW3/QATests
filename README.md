@@ -1,4 +1,4 @@
 # QATests
 
 
-1. Readme edit
+1. Readme edited
